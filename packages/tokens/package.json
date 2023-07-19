@@ -10,9 +10,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://artefatos.jfrog.io/artifactory/api/npm/npm-group/"
-  },
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w"
