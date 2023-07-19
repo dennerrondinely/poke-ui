@@ -5,13 +5,7 @@
   "author": "Denner Rondinely <denner.rondinely@gmail.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "files": [
-    "lib"
-  ],
+  "main": "lib/index.js",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
