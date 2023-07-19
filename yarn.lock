@@ -1971,14 +1971,14 @@
     source-map "^0.7.3"
 
 "@poke-ui/react-components@file:/home/denner/Personal/Poke-ui/packages/react-components":
-  version "0.0.1"
+  version "0.0.2"
   resolved "file:packages/react-components"
   dependencies:
     "@poke-ui/tokens" "^0.0.1"
     "@stitches/react" "^1.2.8"
 
-"@poke-ui/tokens@^0.0.1", "@poke-ui/tokens@file:/home/denner/Personal/Poke-ui/packages/tokens":
-  version "0.0.1"
+"@poke-ui/tokens@^0.0.2", "@poke-ui/tokens@file:/home/denner/Personal/Poke-ui/packages/tokens":
+  version "0.0.2"
   resolved "file:packages/tokens"
 
 "@rollup/pluginutils@^4.1.2":
