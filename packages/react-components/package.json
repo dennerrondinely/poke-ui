@@ -1,6 +1,6 @@
 {
   "name": "@poke-ui/react-components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react-components",
   "author": "Denner Rondinely <denner.rondinely@gmail.com>",
   "homepage": "",
@@ -49,7 +49,7 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
-    "@poke-ui/tokens": "^0.0.2",
+    "@poke-ui/tokens": "^0.0.3",
     "@stitches/react": "^1.2.8"
   }
 }
